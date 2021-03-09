@@ -1,4 +1,0 @@
-holaaaaaaaaaaaaa
-xxxxxxdddddddd
-cambios de sistema
-7888888888884
