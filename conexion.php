@@ -1,6 +1,6 @@
 <?php
 
-$mysqli = new mysqli('localhost', 'root','funciona','restomaria');
+$mysqli = new mysqli('localhost', 'root','root','restomaria');
 if($mysqli->connect_error){
 	die('Error en la conexion' . $mysqli->connect_error);
 }

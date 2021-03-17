@@ -2,7 +2,7 @@
 //Variables de conexion
 $server = 'localhost';
 $username = 'root';
-$password = 'funciona';
+$password = 'root';
 $database = 'restomaria';
 
 /*Conexion a bd*/
@@ -15,7 +15,7 @@ try {
 ?>
 <?php
 
-$mysqli = new mysqli('localhost', 'root','funciona','restomaria');
+$mysqli = new mysqli('localhost', 'root','root','restomaria');
 if($mysqli->connect_error){
 	die('Error en la conexion' . $mysqli->connect_error);
 }

@@ -13,7 +13,7 @@
 
 ?>
 <?php
-$conexion=mysqli_connect('localhost' ,'root','funciona','restomaria'); 
+$conexion=mysqli_connect('localhost' ,'root','root','restomaria'); 
  //echo "CONECTADO";
 ?>
 <!DOCTYPE html>

@@ -122,7 +122,7 @@ a{
 
 
     <form action="addpersona.php" method="POST"> <!--IMPORTANTE PONER EL MISMO NOMBRE, al hacer click te manda aqui-->
-      <input name="id_Persona" type="text" placeholder="INGRESE SU DNI">
+      <input name="id_Persona" type="text" placeholder="INGRESE SU ID">
       <input name="DNI" type="text" placeholder="INGRESE SU DNI">
       <input name="Nombres" type="text" placeholder="INGRESE SUS NOMBRES">
       <input name="Apell_Pat" type="text" placeholder="INGRESE SU APELLIDO PATERNO">

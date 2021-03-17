@@ -3,7 +3,7 @@
 	//default database configuration
 	$servername = "localhost";
 	$username = "root";
-	$password = "funciona";
+	$password = "root";
 	$dbname = "restomaria";
 
 ?>
